@@ -1,0 +1,92 @@
+Here is a structured, clean HR Policy Knowledge Base formatted specifically for building a RAG (Retrieval-Augmented Generation) system.
+To make chunking and retrieval accurate for your AI, each policy section below uses clear headers, self-contained paragraphs, and explicit rules so the LLM can answer employee questions without hallucinating.
+[COMPANY NAME] — COMPLETE HR POLICY HANDBOOK
+Version: 2.0 | Effective Date: January 1, 2026 | Jurisdiction: India
+
+==================================================
+SECTION 1: PROBATION & CONFIRMATION POLICY
+
+1.1 Probation Period Duration
+All new full-time employees undergo a mandatory probation period of 6 months from their date of joining. Management reserves the right to extend the probation period by up to 3 months if performance or conduct does not meet company standards.
+1.2 Performance Evaluation During Probation
+Employees on probation are evaluated at the 3-month and 6-month marks by their reporting manager. Upon successful completion of the 6-month review, HR will issue a formal Confirmation Letter.
+1.3 Notice Period During Probation
+During the probation period, either the employee or the company may terminate employment by providing 15 days written notice or salary in lieu of notice. Once confirmed, the standard notice period of 60 days applies.
+1.4 Leave Eligibility During Probation
+Employees on probation are eligible for 1 Casual Leave (CL) and 1 Sick Leave (SL) per month on an accrual basis. Probationary employees are not eligible for Earned/Privilege Leave (EL) until their employment is confirmed.
+
+==================================================
+SECTION 2: LEAVE POLICY
+
+2.1 Annual Leave Entitlement
+Confirmed full-time employees are entitled to the following leaves per calendar year (January to December):
+• Earned Leave (EL) / Privilege Leave (PL): 18 days per year (credited at 1.5 days per month).
+• Casual Leave (CL): 6 days per year (credited at 0.5 days per month).
+• Sick Leave (SL): 6 days per year (credited at 0.5 days per month).
+• Public Holidays: 10 fixed national and festival holidays as published in the annual holiday calendar.
+2.2 Leave Application Rules
+• Earned Leave (EL) for 3 or more consecutive days must be applied for on the HRMS portal at least 7 days in advance.
+• Casual Leave (CL) must be applied at least 24 hours in advance, except in emergencies.
+• Sick Leave (SL) exceeding 2 consecutive days requires a valid medical certificate from a registered medical practitioner.
+2.3 Leave Carry Forward and Encashment
+• Casual Leave (CL) and Sick Leave (SL) lapse at the end of the calendar year (December 31) and cannot be carried forward.
+• Up to 15 unused Earned Leaves (EL) can be carried forward to the next calendar year, up to a maximum accumulation cap of 45 days. Leave encashment is applicable only at the time of full and final settlement upon resignation.
+2.4 Maternity and Paternity Leave
+• Maternity Leave: Female employees who have worked for at least 80 days in the 12 months preceding the expected delivery date are entitled to 26 weeks of paid maternity leave as per the Maternity Benefit Act.
+• Paternity Leave: Male employees are entitled to 5 consecutive days of paid paternity leave, which must be availed within 30 days of the child's birth.
+
+==================================================
+SECTION 3: WORK FROM HOME (WFH) & HYBRID POLICY
+
+3.1 Work Mode Eligibility
+The company operates on a hybrid model requiring employees to work from the office at least 3 days a week (Tuesday, Wednesday, and Thursday are mandatory core office days). Fully remote work is permitted only for roles explicitly designated as remote in the offer letter.
+3.2 Ad-Hoc Work From Home Requests
+Confirmed employees may request up to 2 additional WFH days per month for personal emergencies or medical recovery. Ad-hoc WFH requests must be approved by the reporting manager at least 24 hours prior via email or HRMS.
+3.3 WFH Operational Guidelines
+• Working Hours: Employees working from home must remain available online on Slack/Teams from 10:00 AM to 7:00 PM IST.
+• Infrastructure: Employees must maintain a high-speed internet connection (minimum 50 Mbps) and a quiet, distraction-free workspace.
+• Data Security: Employees must use only company-issued laptops and connect via the company VPN when accessing internal servers or client data. Working from public Wi-Fi networks without VPN is strictly prohibited.
+
+==================================================
+SECTION 4: WORKING HOURS & ATTENDANCE POLICY
+
+4.1 Standard Working Hours
+Standard working hours are 9 hours per day (including a 1-hour lunch break), Monday through Friday, from 10:00 AM to 7:00 PM IST. Saturday and Sunday are weekly offs.
+4.2 Grace Period and Late Marks
+Employees have a 15-minute grace period (up to 10:15 AM) for logging in. Logging in after 10:15 AM is marked as a Late Mark. Three Late Marks in a calendar month will result in a 0.5-day Casual Leave deduction.
+4.3 Overtime and Compensatory Off (Comp-Off)
+If an employee is required by their manager to work on a weekend or public holiday for at least 4 hours, they are eligible for a 0.5-day Comp-Off. Working 8 or more hours on a weekend/holiday entitles the employee to a 1-day Comp-Off, which must be availed within 30 days.
+
+==================================================
+SECTION 5: NOTICE PERIOD & EXIT POLICY
+
+5.1 Resignation and Notice Period
+Confirmed employees wishing to resign must submit a formal resignation on the HRMS portal. The standard notice period for confirmed employees is 60 days. Buyout of the notice period is solely at the discretion of management and business requirements.
+5.2 Leave During Notice Period
+Employees are not permitted to take Earned Leave or Casual Leave during their notice period. Any unpaid leave taken during the notice period will extend the last working day by the corresponding number of days.
+5.3 Full and Final (F&F) Settlement
+The F&F settlement, including unpaid salary, leave encashment, and relieving documents, is processed within 45 days from the employee's last working day, subject to the handover of all company assets (laptop, ID card, access keys).
+
+==================================================
+SECTION 6: EXPENSE REIMBURSEMENT & TRAVEL POLICY
+
+6.1 Eligibility and Approval
+Business travel and client entertainment expenses must be pre-approved by the Department Head. Reimbursement claims must be submitted within 15 days of incurring the expense with original GST bills.
+6.2 Daily Allowance and Lodging Caps (Domestic Travel)
+• Metro Cities (Mumbai, Delhi NCR, Bengaluru, Hyderabad, Chennai, Kolkata): Hotel limit up to INR 4,500 per night; Food allowance up to INR 1,000 per day.
+• Non-Metro Cities: Hotel limit up to INR 3,000 per night; Food allowance up to INR 750 per day.
+• Local Conveyance: Actuals via economy cab (Uber/Ola) or auto-rickshaw upon submission of digital receipts.
+
+==================================================
+SECTION 7: CODE OF CONDUCT & POSH POLICY
+
+7.1 Prevention of Sexual Harassment (POSH)
+The company has zero tolerance for sexual harassment in the workplace, including virtual meetings and off-site company events. Complaints can be filed confidentially with the Internal Complaints Committee (ICC) at icc@[companyname].com within 3 months of the incident.
+7.2 Moonlighting and Conflict of Interest
+Full-time employees are prohibited from engaging in secondary employment, freelance consulting, or business activities for external entities without prior written consent from HR.
+
+💡 Quick Tip for Your RAG Pipeline
+
+• Chunking Strategy: Split this document by the === dividers or by numbered headers (1.1, 1.2, etc.) with a chunk size of around 300–500 tokens and a 50-token overlap.
+• Metadata Tagging: Tag each chunk with category (e.g., leave, probation, wfh, exit) so your retriever filters relevant policies accurately when an employee asks a specific question.
+Would you like me to generate synthetic Q&A test pairs (questions + ground-truth answers) based on this text so you can evaluate and benchmark your RAG pipeline's accuracy?
