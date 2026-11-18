@@ -1,5 +1,3 @@
-Here is a structured, clean HR Policy Knowledge Base formatted specifically for building a RAG (Retrieval-Augmented Generation) system.
-To make chunking and retrieval accurate for your AI, each policy section below uses clear headers, self-contained paragraphs, and explicit rules so the LLM can answer employee questions without hallucinating.
 [COMPANY NAME] — COMPLETE HR POLICY HANDBOOK
 Version: 2.0 | Effective Date: January 1, 2026 | Jurisdiction: India
 
@@ -15,7 +13,8 @@ During the probation period, either the employee or the company may terminate em
 1.4 Leave Eligibility During Probation
 Employees on probation are eligible for 1 Casual Leave (CL) and 1 Sick Leave (SL) per month on an accrual basis. Probationary employees are not eligible for Earned/Privilege Leave (EL) until their employment is confirmed.
 
-==================================================
+
+
 SECTION 2: LEAVE POLICY
 
 2.1 Annual Leave Entitlement
