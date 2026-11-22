@@ -1,3 +1,4 @@
 hrragenv
 
 .env
+data\faiss_index
